@@ -1,0 +1,1 @@
+DEPTH=..\..\..JDIRS = netscape/rdf netscape/rdf/coreinclude <$(DEPTH)\config\rules.mak>
